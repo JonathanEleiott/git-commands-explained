@@ -12,4 +12,4 @@
 - git commit
   - saving to the history
   - officially going all in and adding to the history
-  - always have a message
+  - always have a message with -m
