@@ -13,3 +13,11 @@
   - saving to the history
   - officially going all in and adding to the history
   - always have a message with -m
+- git remote
+  - makes a connection with an outside source
+- git branch -M main
+  - renames master branch to main
+- git push
+  - sending your local code to the outside source (GitHub)
+- git pull
+  - give my local computer the code from the outside source (GitHub)
