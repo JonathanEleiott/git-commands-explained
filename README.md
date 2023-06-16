@@ -6,6 +6,7 @@
 - git status
   - where are we at in the process?
   - red => made changes/added files, but haven't added to the history
+  - green => good to commit
 - git add
   - "temporarily" adds files to the history before commiting
   - security checkpoint
